@@ -1,0 +1,27 @@
+{
+    "J+t-Qo6PXa_)atail4XH": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d/d3f/f/f3d3f39/d3f3d3d/93d3d393d3d3d3d393d3//9/9/9/d3d/f3d3d3d3d/d3d/f//3d3d3d393d3d3f//393/393d3/3d3d393d3//9/9///d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spawn"
+    },
+    "image2": {
+        "data": "hwQQABAAAADu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "grass"
+    },
+    "image1": {
+        "data": "hwQQABAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "lava"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAiIiIiIiIiIiL////y//8v8iIi8vIi8iLyIiLy8iLyIvIi8v/y//8vIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIv//L/L//y/yIiLyIiIiL/IiIvIiIiIvIv//LyIiIi8iIiIiIiIiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "goal"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

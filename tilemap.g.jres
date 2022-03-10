@@ -1,0 +1,24 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAiIiIiQlVVVSIiIkJEVVVVIiJCRERUVVUiIkREVFVVVSIiIkREVFVVIiJCRERUVVUiIiJERFVVVSIiIkRUVVVVIiIiRFRVVVUiIkJERFVVVSIiQkRUVVVVIiJCRFVVVVUiIkREVFVVVSIiREREVFVVIiJCREREVVUiIiIiIkRVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "lavaTop"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAB3d+bu7u7u7ndn7u7u7u7ud3fm7u7u7u535n7m7u7u7nd3Z+7u7u7ud3fm7u7u7u53d2fu7u7u7nd35u7u7u7ud3fm7u7u7u53d3fm7u7u7ndn7mfu7u7ud3fm7u7u7u53Z+7u7u7u7ndn7u7u7u7ud3d35u7u7u53d+fu7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "grassTop"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
